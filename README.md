@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 CarePulse - Doctor Appointment Booking System
 
 A clean, responsive, and role-based Doctor Appointment Booking System built with **React**, **Node.js (Express)**, and **MySQL** (with dual-engine local fallback for zero-friction evaluation).
@@ -169,3 +170,6 @@ Tests verified:
 9. In-app reminder notification creation
 10. Appointment cancellation with status update
 11. Admin dashboard metrics computation
+=======
+# Doctor-Appointment-Booking-System
+>>>>>>> 044c07356c307ded197ac0a815b85d46f07cad02
