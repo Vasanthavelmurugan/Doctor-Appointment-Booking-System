@@ -1,0 +1,15 @@
+{
+  "name": "doctor-appointment-booking-system",
+  "version": "1.0.0",
+  "description": "Doctor Appointment Booking System with React, Node.js/Express, and MySQL/SQLite support",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "dev": "node backend/src/server.js",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "test": "node backend/run-self-test.js",
+    "init-db": "node backend/database/init-db.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
